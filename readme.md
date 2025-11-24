@@ -1,3 +1,84 @@
+# Perfil e recomendações de carreira em tecnologia
+
+---
+
+## Respostas da entrevista
+
+- **Interesse principal:** Resolver problemas  
+- **Experiência em tecnologia:** Suporte de TI e Infraestrutura de TI (estágio)  
+- **Disponibilidade semanal de estudos:** 3 horas  
+- **Preferência no dia a dia:** Infraestrutura de TI (menos código)  
+- **Objetivo:** Crescer na função atual migrando para infraestrutura em cloud  
+- **Assuntos de interesse:** Infraestrutura e cloud  
+- **Experiência aproveitável:** Infraestrutura de TI
+
+---
+
+## Recomendações ranqueadas
+
+════════════════════════════════════════════════════════════  
+🥇 1º LUGAR: Engenheiro de Cloud/DevOps — 18/20  
+════════════════════════════════════════════════════════════
+
+💡 **Por que combina com você:**  
+Você já atua com infraestrutura e quer migrar para cloud; essa trilha aproveita diretamente sua base prática em suporte/infra e amplia para automação, provisionamento e orquestração em nuvem.
+
+⚖️ **O que esperar:**
+- **Vantagens:**  
+  - **Alta demanda:** Presente em empresas de todos os portes  
+  - **Evolução acelerada:** Contato com práticas modernas (IaC, CI/CD)  
+  - **Aproveitamento da base:** Sua experiência atual facilita a transição
+- **Desafios:**  
+  - **Aprendizado de automação:** Terraform, pipelines e containers  
+  - **Atualização constante:** Serviços e melhores práticas em AWS/Azure/GCP
+
+📈 **Mercado:**  
+Área aquecida e em expansão contínua. A demanda varia por região e nível de experiência, com grande presença em consultorias, SaaS e empresas em migração para nuvem.
+
+---
+
+════════════════════════════════════════════════════════════  
+🥈 2º LUGAR: Analista de Segurança em Cloud — 16/20  
+════════════════════════════════════════════════════════════
+
+💡 **Por que combina com você:**  
+Sua vivência em infraestrutura pode se converter em segurança de ambientes cloud, fortalecendo governança, conformidade e proteção de dados.
+
+⚖️ **O que esperar:**
+- **Vantagens:**  
+  - **Impacto crítico:** Papel central na continuidade e confiança  
+  - **Valorização:** Especializações em compliance e resposta a incidentes  
+- **Desafios:**  
+  - **Estudo contínuo:** Ameaças, controles e frameworks de segurança  
+  - **Responsabilidade elevada:** Gestão de riscos e incidentes
+
+📈 **Mercado:**  
+Prioridade transversal em todos os setores. A demanda cresce com a adoção de cloud, variando por segmento e maturidade de segurança das empresas.
+
+---
+
+════════════════════════════════════════════════════════════  
+🥉 3º LUGAR: Administrador de Sistemas Cloud — 15/20  
+════════════════════════════════════════════════════════════
+
+💡 **Por que combina com você:**  
+Transição natural da infraestrutura tradicional para administração de ambientes em nuvem, com foco em operação, monitoramento e eficiência.
+
+⚖️ **O que esperar:**
+- **Vantagens:**  
+  - **Curva inicial amigável:** Forte reaproveitamento do que você já faz  
+  - **Base sólida:** Porta de entrada para especializações futuras  
+- **Desafios:**  
+  - **Menor visibilidade estratégica:** Comparado a DevOps/Engenharia  
+  - **Certificações úteis:** Para se diferenciar em vagas concorridas
+
+📈 **Mercado:**  
+Demanda estável, especialmente em empresas em migração ou já multicloud. A variação depende do porte e do nível de automação adotado.
+
+---
+
+### Qual dessas carreiras te chamou mais atenção?
+
 # Resultado do Planejador de Carreiras
 
 # 🚀 Roadmap de Carreira - Administrador de Cloud / DevOps
