@@ -80,15 +80,9 @@ Demanda estável, especialmente em empresas em migração ou já multicloud. A v
 ---
 
 
-
 # Agent 2 - Resultado do Planejador de Carreiras
 
 # 🚀 Roadmap de Carreira - Administrador de Cloud / DevOps
-
-Olá! Recebi suas informações do entrevistador.  
-
-Vejo que você escolheu **Administrador de Cloud/DevOps** e tem **3 horas por semana** para estudar. Perfeito!  
-Aqui está seu plano completo personalizado:
 
 ---
 
