@@ -214,6 +214,167 @@ Ela cobre fundamentos de Cloud, Docker, Kubernetes e Terraform, exatamente alinh
 
 ---
 
-✨ Seu plano está pronto!  
+---
+
+# Exemplo do Simulados Inteligente de Entrevista
+
+# 📘 Simulação de Entrevista — Administrador de Cloud (Júnior)
+
+Este repositório contém uma **simulação realista de entrevista técnica e comportamental** para a vaga de **Administrador de Cloud Júnior**.
+O objetivo é demonstrar conhecimentos práticos e teóricos em **AWS, Docker, Kubernetes, redes**, além de habilidades comportamentais relevantes para a função.
+
+---
+
+## 📌 Sumário
+
+* [Visão Geral](#visão-geral)
+* [Resumo da Entrevista](#resumo-da-entrevista)
+* [Perguntas e Respostas](#perguntas-e-respostas)
+* [Feedback Técnico](#feedback-técnico)
+* [Conclusão](#conclusão)
+* [Como usar este repositório](#como-usar-este-repositório)
+* [Melhorias Futuras](#melhorias-futuras)
+* [Contato](#contato)
+
+---
+
+# 🚀 Visão Geral
+
+A simulação foi realizada para fins de estudo e preparação profissional.
+O conteúdo aqui apresentado pode servir como:
+
+* Material de estudo para entrevistas reais
+* Exemplo de portfólio para recrutadores
+* Registro de evolução na área de Cloud
+* Base para criar um roadmap de aprendizado
+
+---
+
+# 🧑‍💼 Resumo da Entrevista
+
+Durante a simulação, foram abordados:
+
+* Fundamentos de AWS
+* Conceitos de redes aplicados em cloud
+* Deploy e gerenciamento de containers com Docker
+* Noção de orquestração com Kubernetes
+* Perguntas comportamentais (soft skills)
+
+O candidato demonstrou conhecimento sólido para o nível júnior e boa capacidade de comunicação.
+
+---
+
+# 📝 Perguntas e Respostas
+
+### **1. Fale um pouco sobre você e sua experiência com Cloud.**
+
+Atualmente trabalho no setor de Infraestrutura de TI e estou estudando cloud.
+
+---
+
+### **2. Quais provedores de cloud você estudou ou teve contato?**
+
+AWS.
+
+---
+
+### **3. Em quais serviços você tem mais domínio dentro da AWS?**
+
+EC2, VPC, IAM e S3.
+
+---
+
+### **4. Como criaria uma EC2 dentro de uma VPC personalizada?**
+
+Verificaria se está acessível e analisaria as permissões do grupo de acesso.
+
+---
+
+### **5. Quais etapas faria antes disso?**
+
+Criação da VPC e sub-rede.
+
+---
+
+### **6. O que adicionaria para dar acesso à internet?**
+
+Internet Gateway.
+
+---
+
+### **7. O que configuraria na Route Table?**
+
+Adicionar rota `0.0.0.0/0` apontando para o Internet Gateway.
+
+---
+
+### **8. Configuração de segurança para acesso SSH:**
+
+Liberar porta **22** no Security Group.
+
+---
+
+### **9. Experiência com Docker:**
+
+Já criei, subi, parei e deletei containers.
+Vejo o Docker como leve, replicável e efêmero.
+
+---
+
+### **10. O que é Kubernetes?**
+
+Orquestra containers Docker.
+
+---
+
+### **11. Diferença entre sub-rede pública e privada:**
+
+Pública → exposta para internet.
+Privada → interna da empresa.
+
+---
+
+### **12. Exemplo envolvendo soft skills:**
+
+Utilizei Docker na faculdade, levantando containers com sistemas prontos e Kubernetes orquestrando os mesmos.
+
+---
+
+# ⭐ Feedback Técnico
+
+### **Pontos Fortes**
+
+* Boa base em serviços essenciais da AWS
+* Compreensão clara de redes em cloud
+* Experiência prática com Docker
+* Entendimento do propósito do Kubernetes
+* Comunicação objetiva
+
+### **Pontos a Desenvolver**
+
+* Detalhar mais processos de arquitetura (VPC → Subnet → IGW → RT → SG)
+* Dar exemplos mais estruturados de soft skills
+
+---
+
+# 🎯 Conclusão
+
+O candidato tem **perfil forte para Administrador de Cloud Júnior**, com conhecimentos fundamentais bem estabelecidos e boa capacidade de aprendizado.
+
+Este material demonstra domínio dos principais conceitos exigidos em processos seletivos para a área.
+
+---
+
+---
+
+# 📈 Melhorias Futuras
+
+* Adicionar diagrama de arquitetura AWS
+* Inserir exemplos práticos de Terraform
+* Criar um laboratório com EC2, VPC e Security Groups
+* Adicionar exercícios de Docker/Kubernetes
+* Simulação de entrevista avançada
+
+---
 Lembre-se: o mais importante é a **constância**, não a velocidade.  
 Com 3h/semana, avance devagar mas sempre.  
