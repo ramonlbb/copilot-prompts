@@ -216,7 +216,7 @@ Ela cobre fundamentos de Cloud, Docker, Kubernetes e Terraform, exatamente alinh
 
 ---
 
-# Exemplo do Simulados Inteligente de Entrevista
+# Exemplo do Simulador Inteligente de Entrevista
 
 # 📘 Simulação de Entrevista — Administrador de Cloud (Júnior)
 
@@ -224,18 +224,6 @@ Este repositório contém uma **simulação realista de entrevista técnica e co
 O objetivo é demonstrar conhecimentos práticos e teóricos em **AWS, Docker, Kubernetes, redes**, além de habilidades comportamentais relevantes para a função.
 
 ---
-
-## 📌 Sumário
-
-* [Visão Geral](#visão-geral)
-* [Resumo da Entrevista](#resumo-da-entrevista)
-* [Perguntas e Respostas](#perguntas-e-respostas)
-* [Feedback Técnico](#feedback-técnico)
-* [Conclusão](#conclusão)
-* [Como usar este repositório](#como-usar-este-repositório)
-* [Melhorias Futuras](#melhorias-futuras)
-* [Contato](#contato)
-
 ---
 
 # 🚀 Visão Geral
