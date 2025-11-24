@@ -1,110 +1,140 @@
-<!--START_SECTION:header-->
-<div align="center">
-  <p align="center">
-    <img 
-      alt="DIO Education" 
-      src="https://raw.githubusercontent.com/digitalinnovationone/template-github-trilha/main/.github/assets/logo.webp" 
-      width="100px" 
-    />
-    <h1>Título do Curso ou Projeto</h1>
-  </p>
-</div>
-<!--END_SECTION:header-->
+# 🚀 Roadmap de Carreira - Administrador de Cloud / DevOps
 
-<p align="center">
-  <img src="https://img.shields.io/static/v1?label=DIO&message=Education&color=E94D5F&labelColor=202024" alt="DIO Project" />
-  <a href="NIVEL"><img  src="https://img.shields.io/static/v1?label=Nivel&message=Basico&color=E94D5F&labelColor=202024" alt="Nivel"></a>
+Olá! Recebi suas informações do entrevistador.  
 
-</p>
+Vejo que você escolheu **Administrador de Cloud/DevOps** e tem **3 horas por semana** para estudar. Perfeito!  
+Aqui está seu plano completo personalizado:
 
-<!--  -->
-<table align="center">
-<thead>
-  <tr>
-    <td>
-        <p align="center">Expert</p>
-        <a href="https://github.com/felipeAguiarCode">
-        <img src="https://avatars0.githubusercontent.com/u/37452836?v=3&s=115" alt="@felipeAguiarCode"><br>
-      </a>
-    </td>
-    <td colspan="3">
-    <p>🎉 10y+ em sistemas comerciais com .NET C# e NODE.JS.
-      <br/>
-     🌟 Desenvolvedor fullstack - Coordenador de educação na DIO
-      <br/>
-    👨‍💻 Foco em front-ends SPA com React, Angular e Vue.js
-    </p>
-      <a 
-      href="https://www.linkedin.com/in/felipe-me/" 
-      align="center">
-           <img 
-            align="center" 
-            alt="Material de Apoio" 
-            src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"
-            >
-        </a>
-        <a href="https://www.instagram.com/felipeaguiar.exe/" target="_blank">
-            <img 
-              align="center" 
-              alt="Instagram" 
-              src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"
-            >
-        </a>
-    </td>
-  </tr>
-</thead>
-</table>
-<!--  -->
+---
 
-<br/>
-<br/>
+## 🧩 VISÃO DO DIA A DIA
 
-## 💻 Sobre o Projeto
+Como é o trabalho de um(a) Administrador(a) de Cloud/DevOps:
 
-Vamos construir uma página spa, responsiva, para usar em diversos tipos de micro, pequena e média empresas. Contém as seguintes seções: Header, Navigation, Home, Sobre, Serviços, Depoimentos, Contato e Footer que faz xxx e yyy
+- Configurar e monitorar ambientes em nuvem (AWS, Azure, GCP)
+- Automatizar processos com scripts e ferramentas de IaC (Terraform, Ansible)
+- Gerenciar containers e orquestração (Docker, Kubernetes)
+- Implementar pipelines de CI/CD para deploy contínuo
+- Garantir segurança, escalabilidade e disponibilidade dos sistemas
 
-## 📚 Pré-requisitos de Habilidades e Níveis de Conhecimento
+---
 
-Antes de ingressar neste conteúdo, é necessário possuir conhecimento prévio nas seguintes áreas:
+## 🧠 MAPA DE SKILLS
 
-- [habilidades ou conhecimentos prévios necessários] | [Básico, Intermediário, Avançado ou Especialista]
+**CORE SKILLS (essenciais):**
+- Fundamentos de Cloud (AWS/Azure/GCP)
+- Docker e Kubernetes
+- Infraestrutura como Código (Terraform)
 
-- _Exemplo_:
+**NICE-TO-HAVE (complementares):**
+- Linux e Shell Script
+- CI/CD (GitHub Actions, Jenkins)
 
-  - Java | Básico
-  - Gerenciamento de pacotes | Básico
-  -
+**FERRAMENTAS E TECNOLOGIAS:**
+- AWS ou Azure
+- Docker
+- Kubernetes
+- Terraform
+- Git
 
-- [Outros pré-requisitos, se aplicável]
+---
 
-- _Exemplo_:
-  - Lógica de programação
-  - Javascript
+## 📅 ROADMAP DE 90 DIAS
 
-## 🛠️ Habilidades e Sub-habilidades que vamos aprender neste conteúdo
+**ADAPTADO PARA: 3 horas/semana (menos de 5h → prazos estendidos, foco no essencial)**
 
-- [Lista das habilidades principais a serem desenvolvidas]
+### MÊS 1 - FUNDAMENTOS
 
-  - [Subhabilidades relacionadas, se aplicável]
+**SEMANA 1-2:**
+- Estudar fundamentos de Cloud (conceitos de IaaS, PaaS, SaaS)
+- Criar conta gratuita na AWS ou Azure e explorar serviços básicos
 
-- _Exemplo_:
-  - Java
-    - Api Rest
+**SEMANA 3-4:**
+- Aprender Linux básico (comandos essenciais, permissões, processos)
+- Introdução ao Git e versionamento de código
 
-## 🎯 Objetivos e Resultados Esperados
+---
 
-Após a conclusão do curso/projeto, os estudantes estarão aptos a:
+### MÊS 2 - PRÁTICA
 
-- [Descrição do que os estudantes serão capazes de fazer]
-- [Projetos ou soluções que os estudantes estarão aptos a construir]
+**SEMANA 5-6:**
+- Instalar e usar Docker: criar containers simples
+- Entender imagens, volumes e redes no Docker
 
-<!--START_SECTION:footer-->
+**SEMANA 7-8:**
+- Introdução ao Kubernetes: pods, deployments e services
+- Criar cluster local com Minikube ou Kind
 
-<br />
-<br />
+---
 
-<p align="center">
-  <a href="https://www.dio.me/" target="_blank">
-    <img align="center" src="https://raw.githubusercontent.com/digitalinnovationone/template-github-trilha/main/.github/assets/footer.png" alt="banner"/>
-  </a>
-</p>
+### MÊS 3 - PORTFÓLIO E PREPARAÇÃO
+
+**SEMANA 9-10:**
+- Aprender Terraform: criar infraestrutura simples (VM + rede)
+- Versionar código IaC no GitHub
+
+**SEMANA 11-12:**
+- Montar pipeline CI/CD básico (GitHub Actions)
+- Preparar projeto final para portfólio
+
+---
+
+## 🚀 PROJETO DE PORTFÓLIO
+
+**PROJETO:** Infraestrutura Cloud Automatizada com CI/CD
+
+**O QUE FAZER:**
+Criar uma aplicação simples em container (ex: app Node.js ou Python), orquestrá-la com Kubernetes e provisionar infraestrutura com Terraform. Automatizar deploy com GitHub Actions.
+
+**ENTREGÁVEIS:**
+- Repositório GitHub com código e documentação
+- Arquivos Terraform para provisionamento
+- Configuração Kubernetes (YAML)
+- Pipeline CI/CD funcionando
+
+**CRITÉRIOS DE ACEITAÇÃO:**
+- Infraestrutura criada automaticamente via Terraform
+- Aplicação rodando em Kubernetes
+- Deploy automatizado via pipeline
+
+**DICA:** Comece pequeno (um container simples) e vá evoluindo. Documente cada passo no README.
+
+---
+
+## 💬 ROTEIRO DE ENTREVISTAS
+
+**PERGUNTA 1:** O que é Docker e por que usar?  
+**COMO RESPONDER:** É uma tecnologia de containers que facilita portabilidade e consistência de ambientes.
+
+**PERGUNTA 2:** Qual a diferença entre VM e container?  
+**COMO RESPONDER:** VM simula hardware completo, container compartilha kernel e é mais leve.
+
+**PERGUNTA 3:** O que é Kubernetes?  
+**COMO RESPONDER:** É um orquestrador de containers que gerencia escalabilidade, disponibilidade e deploys automatizados.
+
+**PERGUNTA 4:** O que é Terraform?  
+**COMO RESPONDER:** Ferramenta de IaC que permite definir infraestrutura em código, garantindo automação e reprodutibilidade.
+
+**PERGUNTA 5:** Como você garantiria segurança em ambientes Cloud?  
+**COMO RESPONDER:** Uso de IAM, boas práticas de rede, criptografia e monitoramento contínuo.
+
+---
+
+## 🎓 TRILHA DIO RECOMENDADA
+
+**TRILHA:** Bootcamp Cloud DevOps Experience - Banco Carrefour (DIO)
+
+**POR QUE ESSA TRILHA:**  
+Ela cobre fundamentos de Cloud, Docker, Kubernetes e Terraform, exatamente alinhados com seu objetivo de primeiro emprego em DevOps.
+
+**PRÓXIMOS PASSOS:**
+1. Acesse [dio.me](https://dio.me)
+2. Busque por "Cloud DevOps Experience - Banco Carrefour"
+3. Inscreva-se gratuitamente
+4. Siga o cronograma junto com este roadmap
+
+---
+
+✨ Seu plano está pronto!  
+Lembre-se: o mais importante é a **constância**, não a velocidade.  
+Com 3h/semana, avance devagar mas sempre.  
