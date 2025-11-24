@@ -364,5 +364,3 @@ Este material demonstra domínio dos principais conceitos exigidos em processos 
 * Simulação de entrevista avançada
 
 ---
-Lembre-se: o mais importante é a **constância**, não a velocidade.  
-Com 3h/semana, avance devagar mas sempre.  
