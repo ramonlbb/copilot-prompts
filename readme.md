@@ -1,4 +1,4 @@
-# Agent 1 - Entrevistador de Carreira
+# Agent 1 - Resultado do Entrevistador de Carreira
 
 # Perfil e recomendações de carreira em tecnologia
 
